@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working in an MNC as a ABAP Developer ⚒️
 
-- 🌱 I’m currently learning **Something🙂‍↕️**
+- 🌱 I’m currently learning **Golang** to make Scalable Backend
 
-- 👯 I’m looking to collaborate on **Cloud/DevOps and SAP ABAP MM**
+- 👯 I’m looking to collaborate on **Cloud SAP ABAP MM**
 
-- 💬 Ask me about **Cloud ,DevOps and SAP ABAP MM**
+- 💬 Ask me about **Cloud SAP ABAP MM**
 
 
 
-- ⚡ Fun fact **I think i am an Introvert:)**
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
