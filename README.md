@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fryingplate</h1>
-<h3 align="center">SAP ABAP/ Cloud/Devops</h3>
+<h3 align="center">SAP ABAP/Golang</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ichigo-kurosaki-happy-windy-clear-skies-i50aaga8dfjnkjpm.webp">
 
 
 
-- 🔭 I’m currently working in an MNC as a ABAP Developer ⚒️
+- 🔭 I’m currently working  as a ABAP Developer ⚒️
 
 - 🌱 I’m currently learning **Golang** to make Scalable Backend
 
